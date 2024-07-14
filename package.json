@@ -13,7 +13,7 @@
     "preview": "vite preview"
   },
   "scripts": {
-  "start": "vite",  // or "react-scripts start" if you're using Create React App
+  "start": "vite",  
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
   "dev": "vite",
